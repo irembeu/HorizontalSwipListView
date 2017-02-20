@@ -27,6 +27,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
+    
     [self configData];
     [self configTableHeader];
     [self configInfoView];

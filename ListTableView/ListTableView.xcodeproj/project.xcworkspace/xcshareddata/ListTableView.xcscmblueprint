@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "196D850A0A27380B0584A7462E213FE34B4F4E70",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "196D850A0A27380B0584A7462E213FE34B4F4E70" : 9223372036854775807,
+    "EC89FBACF535F0981979E1D6BBC368840FB614F2" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0B446262-F559-43B8-837D-9027E7835DF5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "196D850A0A27380B0584A7462E213FE34B4F4E70" : "HorizontalSwipListView\/",
+    "EC89FBACF535F0981979E1D6BBC368840FB614F2" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ListTableView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ListTableView\/ListTableView.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/irembeu\/HorizontalSwipListView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "196D850A0A27380B0584A7462E213FE34B4F4E70"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/iOSJason\/AnimationTabBarItemSwiftDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EC89FBACF535F0981979E1D6BBC368840FB614F2"
+    }
+  ]
+}
